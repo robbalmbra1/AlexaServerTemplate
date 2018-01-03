@@ -19,7 +19,5 @@
     "url": "https://github.com/Kenji776/AlexaTestSkill/issues"
   },
   "homepage": "https://github.com/Kenji776/AlexaTestSkill#readme",
-  "dependencies": {
-    "alexa-app": "^2.3.2"
-  }
+  "dependencies": {}
 }
