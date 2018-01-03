@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "alexa-app": "^4.2.0",
     "alexa-app-server": "^3.0.1"
   },
   "devDependencies": {},
